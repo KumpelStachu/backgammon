@@ -1,0 +1,7 @@
+build/
+
+*.bgn
+nobuild
+nobuild.old
+.DS_Store
+*.zip
